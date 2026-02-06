@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "agi_core", "neuro_server",
+    "neuro_vis", "neuro_visualizer",
+    "tools/gen_connectome",
+]
+
+resolver = "2"

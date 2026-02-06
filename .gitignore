@@ -1,0 +1,8 @@
+/target
+Cargo.lock
+knowledge_1M.txt
+hippocampus_index.bin
+*.bin
+*.exe
+*.pdb
+node_modules/

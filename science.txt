@@ -1,0 +1,181 @@
+Inventaire Complet des Structures Neuronales Majeures & Leurs Fonctions :
+
+Amygdale : Traitement des émotions (peur, agressivité), mémoire émotionnelle, modulation de la mémoire.
+
+Aire de Broca : Production du langage articulé, grammaire.
+
+Aire de Wernicke : Compréhension du langage (parlé et écrit).
+
+Bulbe Olfactif : Traitement initial des informations olfactives (odeurs).
+
+Cervelet : Coordination motrice fine, équilibre, posture, apprentissage moteur, cognition implicite (certains aspects).
+
+Cerveau (Globalement) : Intégration supérieure, conscience, pensée, mémoire, émotion, perception, contrôle moteur volontaire, régulation homéostatique.
+
+Cerveau Antérieur (Prosencéphale) : Comprend le télencéphale (cortex + structures sous-corticales) et le diencéphale (thalamus, hypothalamus...).
+
+Cerveau Moyen (Mésencéphale) : Relais auditif/visuel, mouvements oculaires, régulation de l'éveil, intégration sensorimotrice. Contient la Substantia Nigra (mouvement via dopamine) et le Tectum (colliculi supérieurs/inférieurs).
+
+Cerveau Postérieur (Rhombencéphale) : Comprend le métencéphale (pont, cervelet) et le myélencéphale (bulbe rachidien).
+
+Cingulum (Faisceau) / Gyrus Cingulaire : Intégration émotion-cognition, attention, prise de décision, régulation autonome. Partie clé du réseau du mode par défaut.
+
+Circonvolution (Gyrus) / Sillon (Sulcus) : Structures de pliage du cortex augmentant sa surface.
+
+Cortex Cérébral (Néocortex) : Couche externe du cerveau, siège des fonctions cognitives supérieures.
+
+Cortex Associatif : Intégration multisensorielle, pensée abstraite, planification, mémoire de travail.
+
+Cortex Auditif (Lobe Temporal) : Traitement des sons.
+
+Cortex Frontal : Raisonnement, prise de décision, planification, contrôle moteur volontaire, personnalité, langage (Broca).
+
+Cortex Insulaire : Conscience interoceptive (état interne du corps), émotions (dégoût, empathie), douleur, goût.
+
+Cortex Moteur Primaire (Précentral) : Contrôle direct des mouvements volontaires.
+
+Cortex Orbitofrontal : Prise de décision basée sur la récompense/punition, contrôle des impulsions, comportement social.
+
+Cortex Pariétal : Traitement somatosensoriel (toucher, proprioception), intégration sensorielle, attention spatiale, conscience du corps.
+
+Cortex Préfrontal : Fonctions exécutives (planification, résolution de problèmes, mémoire de travail, contrôle inhibiteur), cognition sociale.
+
+Cortex Préfrontal Dorsolatéral : Mémoire de travail, raisonnement, flexibilité cognitive.
+
+Cortex Préfrontal Ventromédian : Prise de décision émotionnelle, comportement social.
+
+Cortex Sensoriel Primaire (Somatosensoriel - Postcentral) : Traitement initial des sensations tactiles.
+
+Cortex Temporal : Audition, mémoire déclarative (hippocampe), reconnaissance visuelle complexe (visages, objets), langage (Wernicke).
+
+Cortex Visuel Primaire (Lobe Occipital) : Traitement initial des informations visuelles.
+
+Corps Calleux : Principal faisceau de fibres connectant les deux hémisphères cérébraux, permettant leur communication.
+
+Diencéphale : "Centre de contrôle" interne, comprend :
+
+Épithalamus (Glande Pinéale) : Sécrète la mélatonine (régulation cycle veille-sommeil).
+
+Hypothalamus : Maître de l'homéostasie (faim, soif, température, sommeil), système nerveux autonome, système endocrinien (via hypophyse), comportements motivés (sexe, combat).
+
+Thalamus : "Relais" central. Filtre et achemine presque toutes les informations sensorielles (sauf olfaction) vers le cortex. Impliqué dans la régulation de la conscience, du sommeil et de l'attention.
+
+Fornix : Faisceau majeur reliant l'hippocampe à d'autres structures limbiques (comme l'hypothalamus).
+
+Ganglis de la Base (Noyaux Gris Centraux) : Régulation des mouvements automatiques (initiation, amplitude, vitesse), apprentissage procédural, cognition (habitudes, prise de décision).
+
+Noyau Caudé : Mouvement oculaire, apprentissage procédural, mémoire de travail.
+
+Putamen : Contrôle moteur, apprentissage.
+
+Globus Pallidus : Régulation du tonus musculaire et des mouvements.
+
+Noyau Subthalamique : Modulation des mouvements.
+
+Substantia Nigra : Production de dopamine cruciale pour le mouvement et la récompense (partie du mésencéphale mais fonctionnellement liée).
+
+Hippocampe : Formation de la mémoire déclarative (épisodique et sémantique), consolidation vers le néocortex, navigation spatiale.
+
+Hypophyse (Glande) : "Glande maîtresse" du système endocrinien, contrôlée par l'hypothalamus. Sécrète des hormones régulant croissance, métabolisme, stress, reproduction.
+
+Locus Coeruleus : Source principale de noradrénaline. Régulation de l'éveil, de l'attention, de la réponse au stress, de la mémoire.
+
+Moelle Épinière : Conduit les informations sensorielles vers le cerveau et les commandes motrices du cerveau vers le corps. Centre des réflexes spinaux.
+
+Noyau Accumbens : Centre clé du circuit de la récompense, motivation, plaisir, addiction, apprentissage associatif.
+
+Noyau Basal de Meynert : Source principale d'acétylcholine pour le cortex. Crucial pour l'attention, l'apprentissage et la mémoire.
+
+Pont : Relais entre cortex, cervelet et moelle épinière. Contrôle de la respiration, du sommeil paradoxal, mouvements faciaux, équilibre.
+
+Raphe Nuclei : Source principale de sérotonine. Régulation de l'humeur, du sommeil, de l'appétit, de la douleur, de la cognition.
+
+Rétine : Tissu neurosensoriel de l'oeil, première étape du traitement visuel.
+
+Striatum : Composé du noyau caudé et du putamen. Entrée majeure des ganglions de la base. Intégration sensorimotrice, apprentissage par récompense.
+
+Tegmentum Pontin : Contient des noyaux impliqués dans le sommeil paradoxal et l'éveil.
+
+Tronc Cérébral : Connexion cerveau/moelle. Contrôle des fonctions vitales (respiration, rythme cardiaque, pression artérielle - surtout dans le Bulbe Rachidien), niveaux de conscience (éveil/sommeil), réflexes (déglutition, vomissement). Comprend le mésencéphale, le pont et le bulbe rachidien.
+
+Ventricules & Liquide Céphalo-Rachidien (LCR) : Système de cavités et de fluide protégeant le cerveau, fournissant nutriments et éliminant les déchets.
+
+Synthèse des Systèmes Biologiques pour la Cognition Supérieure :
+
+La réflexion, le savoir, la classification d'états (conscience, émotions) et les fonctions intellectuelles émergent de l'interaction dynamique de multiples systèmes :
+
+Système des Fonctions Exécutives (Cortex Préfrontal, surtout Dorsolatéral) :
+
+Mémoire de Travail : "Bloc-notes mental" pour manipuler temporairement des informations (DLPFC).
+
+Contrôle Inhibiteur : Capacité à supprimer des réponses inappropriées (DLPFC, cortex cingulaire antérieur).
+
+Flexibilité Cognitive : Capacité à changer de stratégie ou de perspective (DLPFC).
+
+Planification & Organisation : Élaborer des séquences d'actions pour atteindre un but (DLPFC).
+
+Raisonnement & Résolution de Problèmes : Manipulation d'idées abstraites, déduction logique (Cortex Préfrontal dans son ensemble).
+
+Système de la Mémoire (Hippocampe, Cortex Associatif, Amygdale, Ganglions de la Base) :
+
+Encodage & Consolidation (Hippocampe) : Formation et stabilisation initiale des souvenirs déclaratifs (faits, événements).
+
+Stockage à Long Terme (Cortex Associatif - surtout Temporal & Pariétal) : Archives des connaissances (sémantique) et souvenirs personnels (épisodique).
+
+Mémoire Émotionnelle (Amygdale) : Stockage des souvenirs associés à une forte charge émotionnelle.
+
+Mémoire Procédurale (Ganglions de la Base, Cervelet) : Stockage des compétences motrices et cognitives automatisées ("savoir-faire").
+
+Système de l'Attention (Cortex Pariétal Postérieur, Cortex Frontal, Thalamus, Formation Réticulée) :
+
+Attention Soutenue : Maintenir la concentration sur une tâche (Cortex Frontal, Cortex Cingulaire Antérieur).
+
+Attention Sélective : Filtrer les distractions pour se concentrer sur une source d'information (Cortex Pariétal, Cortex Frontal, Thalamus).
+
+Attention Divisée : Gérer plusieurs sources d'information/tâches simultanément (Cortex Frontal).
+
+Alerte & Éveil (Formation Réticulée Ascendante, Thalamus, Locus Coeruleus) : Maintenir un état de vigilance global.
+
+Système du Langage (Aire de Broca, Aire de Wernicke, Cortex Auditif, Cortex Visuel, Fasciculus Arcuatus) :
+
+Compréhension (Wernicke, Cortex Auditif/Temporal Associatif) : Décoder le langage parlé et écrit.
+
+Production (Broca, Cortex Moteur) : Formuler et articuler le langage parlé et écrit.
+
+Connexion (Fasciculus Arcuatus) : Faisceau de fibres reliant Wernicke à Broca pour la répétition et la production fluide.
+
+Système de la Conscience & de la Métacognition (Réseau Frontopariétal, Cingulaire Postérieur/Précunéus, Cortex Insulaire, Thalamus) :
+
+Conscience de Soi & de l'Environnement : Expérience subjective et perception (Intégration globale, rôle clé du Réseau Frontopariétal Latéral).
+
+"Default Mode Network" (DMN - Cingulaire Postérieur/Précunéus, Cortex Préfrontal Médian, Cortex Temporal Latéral) : Activé au repos, impliqué dans la pensée auto-référentielle, la projection dans le futur/le passé, la théorie de l'esprit (comprendre les autres).
+
+Conscience Interoceptive (Cortex Insulaire) : Perception des états internes du corps (faim, soif, rythme cardiaque, émotions corporelles).
+
+Métacognition : Capacité à réfléchir sur ses propres pensées et connaissances (Cortex Préfrontal).
+
+Système de Traitement Sensoriel & Intégration (Aires Sensorielles Primaires & Associatives, Thalamus) :
+
+Traitement initial des informations sensorielles (cortex primaires).
+
+Intégration multisensorielle et interprétation (cortex associatifs pariétal, temporal, frontal).
+
+Classification perceptive (ex: reconnaître un objet, une émotion sur un visage).
+
+Système de la Motivation & de la Récompense (Noyau Accumbens, Cortex Préfrontal (Orbitofrontal, Médian), Amygdale, Substance Noire/VTA - Dopamine) :
+
+Valorisation des stimuli (récompense/punition - Cortex Orbitofrontal, Amygdale).
+
+Motivation à agir pour obtenir une récompense/éviter une punition (Noyau Accumbens, dopamine).
+
+Apprentissage par renforcement.
+
+Système de Régulation Émotionnelle (Amygdale, Cortex Préfrontal (Ventromédian, Orbitofrontal), Hippocampe, Cortex Cingulaire, Hypothalamus) :
+
+Génération des réponses émotionnelles (Amygdale, Hypothalamus).
+
+Régulation cognitive des émotions, inhibition des impulsions (Cortex Préfrontal Ventromédian/Orbitofrontal).
+
+Intégration émotion-cognition (Cortex Cingulaire).
+
+Classifications des états émotionnels.

@@ -1,0 +1,12 @@
+cargo run --package neuro_vis
+cargo run --bin neuro_vis
+
+test holographic_memory:
+
+cargo test test_deterministic_unknown_concept --lib -- --nocapture
+cargo test --lib holographic_memory
+
+see how many LoC (NeuroVA/tools):
+
+rustc loc_checker.rs; .\loc_checker.exe
+

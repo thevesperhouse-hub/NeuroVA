@@ -1,0 +1,250 @@
+E=mc² is the equation for mass-energy equivalence in special relativity, where E is energy, m is mass, and c is the speed of light in a vacuum.
+    // domains: Physique
+The Heisenberg uncertainty principle states that it is impossible to simultaneously know the exact position and momentum of a particle.
+    // domains: Physique
+Plato was an Athenian philosopher during the Classical period in Ancient Greece, founder of the Platonist school of thought, and the Academy, the first institution of higher learning in the Western world.
+    // domains: Philosophie, Histoire
+Hitchen's Razor is an epistemological principle asserting that the burden of proof regarding the truthfulness of a claim lies with the one who makes the claim, and if this burden is not met, the claim is unfounded.
+    // domains: Philosophie, Épistémologie
+Alder's Razor, also known as Newton's flaming laser sword, is a philosophical principle that states that what cannot be settled by experiment or observation is not worth debating.
+    // domains: Philosophie, Science
+The speed of light in a vacuum is approximately 299,792,458 meters per second.
+    // domains: Physique
+E=mc^2 is the mass-energy equivalence formula, relating mass and energy.
+    // domains: Physique
+Newton's first law of motion states that an object will not change its motion unless a force acts on it.
+    // domains: Physique, Mécanique
+Newton's second law of motion states that the force on an object is equal to its mass times its acceleration (F=ma).
+    // domains: Physique, Mécanique
+Newton's third law of motion states that for every action, there is an equal and opposite reaction.
+    // domains: Physique, Mécanique
+The theory of general relativity, proposed by Albert Einstein, describes gravity as a curvature of spacetime caused by mass and energy.
+    // domains: Physique, Relativité
+Quantum mechanics is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles.
+    // domains: Physique, Quantique
+The Standard Model of particle physics is the theory describing three of the four known fundamental forces in the universe, as well as classifying all known elementary particles.
+    // domains: Physique, Particules
+Deoxyribonucleic acid, or DNA, is a molecule that carries the genetic instructions for the development, functioning, growth and reproduction of all known organisms and many viruses.
+    // domains: Biologie, Génétique
+Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy, through a process that converts carbon dioxide and water into glucose and oxygen.
+    // domains: Biologie, Chimie, Énergie
+The cell is the basic structural, functional, and biological unit of all known organisms.
+    // domains: Biologie, Cellulaire
+Natural selection is the differential survival and reproduction of individuals due to differences in phenotype. It is a key mechanism of evolution.
+    // domains: Biologie, Évolution
+The human brain is the central organ of the human nervous system, and with the spinal cord makes up the central nervous system.
+    // domains: Biologie, Neurologie
+An algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation.
+    // domains: Informatique, Algorithmique
+A Turing machine is a mathematical model of computation that defines an abstract machine which manipulates symbols on a strip of tape according to a table of rules.
+    // domains: Informatique, Théorie de la computation
+The TCP/IP model is a conceptual model and set of communications protocols used in the Internet and similar computer networks.
+    // domains: Informatique, Réseaux
+Object-oriented programming (OOP) is a programming paradigm based on the concept of 'objects', which can contain data and code.
+    // domains: Informatique, Programmation
+A compiler is a computer program that translates computer code written in one programming language (the source language) into another language (the target language).
+    // domains: Informatique, Compilation
+The Roman Empire was one of the most influential civilizations in world history, lasting for over a thousand years.
+    // domains: Histoire, Civilisations
+The Renaissance was a period in European history, from the 14th to the 17th century, regarded as the cultural bridge between the Middle Ages and modern history.
+    // domains: Histoire, Culture
+The Industrial Revolution was the transition to new manufacturing processes in Europe and the United States, in the period from about 1760 to sometime between 1820 and 1840.
+    // domains: Histoire, Économie
+World War I, also known as the Great War, was a global war originating in Europe that lasted from 28 July 1914 to 11 November 1918.
+    // domains: Histoire, Guerres
+The Cold War was a period of geopolitical tension between the United States and the Soviet Union and their respective allies, the Western Bloc and the Eastern Bloc, which began following World War II.
+    // domains: Histoire, Politique
+Epistemology is the branch of philosophy concerned with the theory of knowledge.
+    // domains: Philosophie, Épistémologie
+Ethics, or moral philosophy, is a branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong conduct.
+    // domains: Philosophie, Éthique
+Metaphysics is the branch of philosophy that examines the fundamental nature of reality, including the relationship between mind and matter, between substance and attribute, and between potentiality and actuality.
+    // domains: Philosophie, Métaphysique
+Socrates was a classical Greek philosopher credited as one of the founders of Western philosophy, and as being the first moral philosopher of the Western ethical tradition of thought.
+    // domains: Philosophie, Histoire
+Plato was an Athenian philosopher during the Classical period in Ancient Greece, founder of the Platonist school of thought, and the Academy, the first institution of higher learning in the Western world.
+    // domains: Philosophie, Histoire
+La Théorie des Formes de Platon est une doctrine fondamentale qui postule l'existence de deux mondes : le monde sensible, que nous percevons avec nos sens, et le monde intelligible, accessible uniquement par l'intellect.
+    // domains: Philosophie, Métaphysique
+Project Gutenberg is a nonprofit organization that maintains an electronic library of public domain works that have been digitized, or converted into e-books, by volunteers and archived for download.
+    // domains: Culture, Littérature
+Le "Cristal Mnémonique" est un dispositif quantique stockant des souvenirs sous forme de fractales lumineuses.
+    // domains: Physique, Quantique
+La mémoire holographique est une technologie de stockage de données qui enregistre l'information en trois dimensions dans un cristal photosensible.
+    // domains: Informatique, Stockage
+L'« Algorithme de Grover » est un algorithme quantique qui permet de rechercher dans une base de données non triée en O(√N) étapes au lieu de O(N) classiquement.
+    // domains: Informatique, Algorithmique
+Le Paradoxe de Fermi pose la question : 'Où sont tous les extraterrestres ?' étant donné la probabilité élevée de leur existence.
+    // domains: Astronomie, Exobiologie
+L'Effet Grandfather (Grand Filter) suggère qu'une barrière cosmique empêche les civilisations d'atteindre le voyage interstellaire.
+    // domains: Astronomie, Cosmologie
+La conscience artificielle est un domaine de recherche explorant la possibilité pour des machines de posséder une conscience.
+    // domains: Informatique, Intelligence artificielle
+Le problème des généraux byzantins est une situation où des acteurs doivent se mettre d'accord sur une stratégie unique pour éviter un échec catastrophique, mais certains acteurs sont peu fiables.
+    // domains: Informatique, Théorie des jeux
+L'entropie, en théorie de l'information, mesure le niveau moyen d'incertitude ou de 'surprise' inhérent aux résultats possibles d'une variable.
+    // domains: Informatique, Théorie de l'information
+La 'Vallée de l'étrange' (Uncanny Valley) est une hypothèse selon laquelle un robot ou un personnage d'animation presque, mais pas parfaitement, humain, provoque un sentiment de malaise chez l'observateur.
+    // domains: Psychologie, Robotique
+Le rasoir d'Ockham est un principe philosophique qui veut que les explications les plus simples soient les plus probables.
+    // domains: Philosophie, Logique
+La loi de Moore observe que le nombre de transistors sur une puce double environ tous les deux ans, bien que le coût des ordinateurs soit réduit de moitié.
+    // domains: Informatique, Électronique
+Un trou noir est une région de l'espace-temps où la gravité est si forte que rien, pas même la lumière, ne peut s'en échapper.
+    // domains: Physique, Astrophysique
+L'effet de l'observateur en physique quantique est la perturbation d'un système observé par le simple fait de l'observer.
+    // domains: Physique, Quantique
+Le bateau de Thésée est une expérience de pensée qui soulève la question de savoir si un objet dont tous les composants ont été remplacés reste fondamentalement le même objet.
+    // domains: Philosophie, Métaphysique
+Une géante rouge est une étoile géante lumineuse de masse faible ou intermédiaire dans une phase tardive de l'évolution stellaire.
+    // domains: Astronomie, Astrophysique
+Les mitochondries sont des organites présents dans la plupart des organismes eucaryotes qui génèrent la majeure partie de l'adénosine triphosphate (ATP) de la cellule, utilisée comme source d'énergie chimique.
+    // domains: Biologie, Cellulaire
+Les théorèmes d'incomplétude de Gödel sont deux théorèmes de logique mathématique qui démontrent les limites inhérentes de tout système axiomatique formel capable de modéliser l'arithmétique de base.
+    // domains: Mathématiques, Logique
+Le dilemme du prisonnier est un exemple standard de la théorie des jeux qui montre pourquoi deux individus rationnels pourraient ne pas coopérer, même s'il semble que ce soit dans leur meilleur intérêt.
+    // domains: Économie, Théorie des jeux
+Le chiffrement RSA (Rivest-Shamir-Adleman) est un cryptosystème à clé publique largement utilisé pour la transmission sécurisée de données.
+    // domains: Informatique, Cryptographie
+Le problème de l'arrêt est le problème de déterminer, à partir d'une description d'un programme informatique arbitraire et d'une entrée, si le programme finira par s'arrêter ou continuera à fonctionner indéfiniment.
+    // domains: Informatique, Théorie de la computation
+L'homéostasie est l'état d'équilibre des conditions physiques et chimiques internes maintenu par les systèmes vivants.
+    // domains: Biologie, Physiologie
+L'effet Doppler est le changement de fréquence d'une onde par rapport à un observateur qui se déplace par rapport à la source de l'onde.
+    // domains: Physique, Ondes
+Un qubit, ou bit quantique, est l'unité de base de l'information quantique, la version quantique du bit binaire classique.
+    // domains: Physique, Quantique
+L'explosion cambrienne est une période, il y a environ 541 millions d'années, au cours de laquelle la plupart des grands embranchements animaux sont apparus dans les archives fossiles.
+    // domains: Biologie, Évolution
+L'échelle de Kardashev est une méthode de mesure du niveau de développement technologique d'une civilisation, basée sur la quantité d'énergie qu'elle est capable d'utiliser.
+    // domains: Astronomie, Civilisations
+Une sphère de Dyson est une mégastructure hypothétique qui entourerait complètement une étoile et capterait la majeure partie de son énergie.
+    // domains: Astronomie, Énergie
+L'hypothèse de la simulation suggère que la réalité, y compris la Terre et l'univers, est une simulation artificielle.
+    // domains: Philosophie, Réalité
+Les quatre forces fondamentales de la nature sont la force gravitationnelle, la force électromagnétique, l'interaction forte et l'interaction faible.
+    // domains: Physique, Forces
+L'entropie, en thermodynamique, est une mesure du désordre ou de l'énergie thermique indisponible pour le travail dans un système.
+    // domains: Physique, Thermodynamique
+Les cellules procaryotes n'ont pas de noyau ni d'autres organites liés à une membrane, tandis que les cellules eucaryotes en ont.
+    // domains: Biologie, Cellulaire
+Le 'No-communication theorem' est un résultat de la mécanique quantique qui stipule qu'il est impossible de transmettre de l'information plus rapidement que la lumière en utilisant l'intrication quantique.
+    // domains: Physique, Quantique
+L'allégorie de la caverne de Platon est une théorie concernant la perception humaine, affirmant que ce que nous percevons comme la réalité n'est qu'une ombre de la vérité.
+    // domains: Philosophie, Métaphysique
+Le Big Bang est le modèle cosmologique dominant pour l'univers observable depuis les premières périodes connues jusqu'à son évolution ultérieure à grande échelle.
+    // domains: Astronomie, Cosmologie
+La matière noire est une forme de matière hypothétique qui semble ne pas interagir avec la lumière ou le champ électromagnétique, mais dont la présence est déduite de ses effets gravitationnels.
+    // domains: Astronomie, Astrophysique
+Un réseau de neurones convolutifs (CNN) est une classe de réseaux de neurones profonds, le plus souvent appliquée à l'analyse d'images visuelles.
+    // domains: Informatique, Intelligence artificielle
+L'ARN (acide ribonucléique) est une molécule polymérique essentielle dans divers rôles biologiques de codage, de décodage, de régulation et d'expression des gènes.
+    // domains: Biologie, Génétique
+Le principe de moindre action est un principe variationnel qui, lorsqu'il est appliqué à l'action d'un système mécanique, peut être utilisé pour obtenir les équations de mouvement de ce système.
+    // domains: Physique, Mécanique
+Le paradoxe du chat de Schrödinger est une expérience de pensée qui illustre le problème de l'interprétation de Copenhague de la mécanique quantique.
+    // domains: Physique, Quantique
+L'intrication quantique est un phénomène physique qui se produit lorsqu'un groupe de particules est généré de telle manière que l'état quantique de chaque particule ne peut être décrit indépendamment de l'état des autres, même lorsque les particules sont séparées par une grande distance.
+    // domains: Physique, Quantique
+Le rasoir de Hanlon est un aphorisme qui recommande de ne jamais attribuer à la malveillance ce qui s'explique adéquatement par la stupidité.
+    // domains: Philosophie, Logique
+La photosynthèse artificielle est un domaine de recherche chimique qui tente de reproduire le processus naturel de la photosynthèse.
+    // domains: Chimie, Énergie
+Un algorithme génétique est une métaheuristique inspirée du processus de sélection naturelle qui appartient à la classe plus large des algorithmes évolutionnistes.
+    // domains: Informatique, Algorithmique
+Le paradoxe de l'œuf et de la poule est un dilemme de causalité qui est couramment énoncé comme 'lequel est venu en premier, l'œuf ou la poule ?'.
+    // domains: Biologie, Évolution
+La loi de la gravitation universelle de Newton stipule que chaque particule attire chaque autre particule dans l'univers avec une force qui est directement proportionnelle au produit de leurs masses et inversement proportionnelle au carré de la distance entre leurs centres.
+    // domains: Physique, Gravitation
+L'effet papillon est l'idée que de petits changements dans les conditions initiales d'un système peuvent entraîner des différences importantes dans les résultats ultérieurs.
+    // domains: Mathématiques, Théorie du chaos
+La conjecture de Poincaré, prouvée par Grigori Perelman, est un théorème sur la caractérisation de la sphère à trois dimensions.
+    // domains: Mathématiques, Topologie
+L'équation de Drake est une formule probabiliste utilisée pour estimer le nombre de civilisations extraterrestres actives et communicantes dans notre galaxie, la Voie lactée.
+    // domains: Astronomie, Exobiologie, Probabilités
+Les équations de Maxwell sont un ensemble de quatre équations qui décrivent comment les champs électriques et magnétiques sont générés et modifiés les uns par les autres et par les charges et les courants.
+    // domains: Physique, Électromagnétisme
+L'émergence est le processus par lequel des systèmes complexes et des modèles apparaissent à partir d'une multitude d'interactions relativement simples entre des entités individuelles.
+    // domains: Systèmes complexes, Philosophie
+Le problème P vs NP est un problème majeur non résolu en informatique théorique qui demande si tout problème dont la solution peut être rapidement vérifiée par un ordinateur peut également être rapidement résolu par un ordinateur.
+    // domains: Informatique, Théorie de la complexité
+Un mème est une idée, un comportement ou un style qui se propage d'une personne à l'autre au sein d'une culture.
+    // domains: Sociologie, Culture
+L'effet placebo est un phénomène dans lequel une substance ou un traitement inactif, comme un placebo, peut provoquer une amélioration de l'état d'un patient simplement parce que la personne s'attend à ce qu'il fonctionne.
+    // domains: Psychologie, Médecine
+Git est un système de contrôle de version distribué utilisé pour suivre les modifications dans le code source pendant le développement de logiciels.
+    // domains: Informatique, Développement logiciel
+Le théorème CAP, ou théorème de Brewer, stipule qu'il est impossible pour un système de données distribué de garantir simultanément la cohérence, la disponibilité et la tolérance au partitionnement.
+    // domains: Informatique, Systèmes distribués
+La récursivité est une méthode de résolution de problèmes où la solution dépend de solutions à des instances plus petites du même problème.
+    // domains: Informatique, Algorithmique
+L'expérience de Miller-Urey a démontré que des composés organiques complexes pouvaient être synthétisés à partir de substances inorganiques simples dans des conditions simulant celles de la Terre primitive.
+    // domains: Biologie, Origine de la vie, Chimie
+La panspermie est l'hypothèse selon laquelle la vie existe dans tout l'Univers, distribuée par des météoroïdes, des astéroïdes, des comètes et des planétoïdes.
+    // domains: Exobiologie, Origine de la vie
+Le solipsisme est l'idée philosophique selon laquelle seul son propre esprit est sûr d'exister.
+    // domains: Philosophie, Métaphysique
+La dissonance cognitive est le malaise mental ressenti par une personne qui a des croyances, des idées ou des valeurs contradictoires.
+    // domains: Psychologie
+L'effet Dunning-Kruger est un biais cognitif selon lequel les personnes ayant de faibles capacités dans un domaine surestiment leur compétence.
+    // domains: Psychologie, Cognition
+Le principe de Peter est un concept de gestion qui observe que les gens dans une hiérarchie ont tendance à être promus jusqu'à leur niveau d'incompétence.
+    // domains: Sociologie, Management
+L'énergie sombre est une forme d'énergie hypothétique qui imprègne tout l'espace et tend à accélérer l'expansion de l'univers.
+    // domains: Astronomie, Cosmologie
+Le principe anthropique est le principe philosophique selon lequel les observations de l'Univers physique doivent être compatibles avec la vie consciente qui les observe.
+    // domains: Philosophie, Cosmologie
+La loi de futilité de Parkinson soutient que les membres d'une organisation accordent une importance disproportionnée à des questions triviales.
+    // domains: Sociologie, Management
+Un réseau antagoniste génératif (GAN) est une classe d'algorithmes d'apprentissage automatique, conçue par Ian Goodfellow et ses collègues en 2014.
+    // domains: Informatique, Intelligence artificielle
+La supraconductivité est un ensemble de propriétés physiques observées dans certains matériaux où la résistance électrique disparaît et les champs de flux magnétique sont expulsés du matériau.
+    // domains: Physique, Matériaux
+L'hypothèse du monde à ARN propose que la vie basée sur l'ARN (acide ribonucléique) est antérieure à la vie actuelle basée sur l'ADN (acide désoxyribonucléique).
+    // domains: Biologie, Origine de la vie
+La singularité technologique est un point hypothétique dans le temps où la croissance technologique devient incontrôlable et irréversible, entraînant des changements imprévisibles pour la civilisation humaine.
+    // domains: Technologie, Futurisme
+La mitose est le processus par lequel une cellule eucaryote sépare les chromosomes de son noyau cellulaire en deux ensembles identiques dans deux noyaux.
+    // domains: Biologie, Cellulaire
+Le principe de superposition quantique stipule que toute particule peut être dans plusieurs états quantiques à la fois, tant qu'elle n'est pas mesurée.
+    // domains: Physique, Quantique
+HTTP (Hypertext Transfer Protocol) est le protocole de base pour l'échange de données sur le World Wide Web.
+    // domains: Informatique, Réseaux
+L'effet tunnel est un phénomène quantique dans lequel une particule franchit une barrière de potentiel même si son énergie est inférieure à l'énergie minimale requise pour franchir la barrière.
+    // domains: Physique, Quantique
+La sélection de parentèle est une stratégie évolutive qui favorise le succès reproductif des parents d'un organisme, même au détriment de la survie et de la reproduction de l'organisme lui-même.
+    // domains: Biologie, Évolution
+Le rasoir d'Hitchens est un principe épistémologique qui affirme que la charge de la preuve concernant la véracité d'une affirmation incombe à celui qui la formule, et si cette charge n'est pas remplie, l'affirmation est sans fondement.
+    // domains: Philosophie, Épistémologie
+Un compilateur juste-à-temps (JIT) est un type de compilateur qui effectue la compilation pendant l'exécution d'un programme plutôt qu'avant.
+    // domains: Informatique, Compilation
+La méiose est un type spécial de division cellulaire qui réduit de moitié le nombre de chromosomes dans les gamètes.
+    // domains: Biologie, Cellulaire
+Le principe de relativité de Galilée stipule que les lois du mouvement sont les mêmes dans tous les référentiels inertiels.
+    // domains: Physique, Mécanique
+Le DNS (Domain Name System) est un système de nommage hiérarchique et décentralisé pour les ordinateurs, services ou autres ressources connectés à Internet ou à un réseau privé.
+    // domains: Informatique, Réseaux
+Le paradoxe des jumeaux est une expérience de pensée en relativité restreinte impliquant des jumeaux identiques, dont l'un fait un voyage dans l'espace à bord d'une fusée à grande vitesse et revient sur Terre pour constater qu'il a moins vieilli que son jumeau resté sur Terre.
+    // domains: Physique, Relativité
+L'altruisme réciproque est un comportement par lequel un organisme agit d'une manière qui profite temporairement à un autre tout en s'attendant à ce que l'autre organisme agisse de manière similaire à un moment ultérieur.
+    // domains: Biologie, Évolution, Sociologie
+Le rasoir de Sagan est un aphorisme qui affirme que les affirmations extraordinaires exigent des preuves extraordinaires.
+    // domains: Philosophie, Science, Scepticisme
+Un système de fichiers est une méthode et une structure de données qu'un système d'exploitation utilise pour contrôler la manière dont les données sont stockées et récupérées.
+    // domains: Informatique, Systèmes d'exploitation
+La loi d'Amdahl est une formule qui donne l'accélération théorique en latence de l'exécution d'une tâche à charge de travail fixe qui peut être attendue d'un système dont les ressources sont améliorées.
+    // domains: Informatique, Architecture des ordinateurs
+L'exaptation est un terme utilisé en biologie évolutive pour décrire un trait qui a évolué pour une utilisation, mais qui est ensuite utilisé pour une autre.
+    // domains: Biologie, Évolution
+Le principe de Mach est une hypothèse en physique qui affirme que l'inertie d'un corps est le résultat de son interaction avec le reste de la matière dans l'univers.
+    // domains: Physique, Cosmologie
+Le rasoir d'Alder, ou rasoir de Newton, est un principe philosophique qui stipule que ce qui ne peut être établi par l'expérience ou l'observation ne mérite pas d'être débattu.
+    // domains: Philosophie, Science
+L'apprentissage par transfert est une technique d'apprentissage automatique où un modèle développé pour une tâche est réutilisé comme point de départ pour un modèle sur une deuxième tâche.
+    // domains: Informatique, Intelligence artificielle
+La spéciation est le processus évolutif par lequel les populations biologiquement distinctes évoluent pour devenir des espèces distinctes.
+    // domains: Biologie, Évolution
+Le paradoxe de l'amitié est le phénomène observé pour la première fois par le sociologue Scott L. Feld selon lequel la plupart des gens ont moins d'amis que leurs amis en moyenne.
+    // domains: Sociologie, Réseaux sociaux
+La loi de Conway est une observation selon laquelle les systèmes de conception sont le reflet des structures de communication de leurs organisations.
+    // domains: Informatique, Management, Sociologie

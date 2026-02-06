@@ -1,0 +1,25 @@
+[package]
+name = "neuro_visualizer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+agi_core = { path = "../agi_core" }
+
+# Graphics & Windowing
+winit = "0.29.15"
+wgpu = "0.19.3"
+
+# Egui
+egui = "0.27.2"
+egui-wgpu = "0.27.2"
+egui-winit = "0.27.2"
+
+# Utility
+env_logger = "0.11.3"
+pollster = "0.3.0"
+bytemuck = { version = "1.12", features = ["derive"] }
+sysinfo = "0.30.11"
+image = "0.25.1"
+rand = "0.8.5"
+log = "0.4"
