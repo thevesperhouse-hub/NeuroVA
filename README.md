@@ -1,5 +1,16 @@
 # NeuroVA - Biomimetic AGI Architecture
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![WGPU](https://img.shields.io/badge/WGPU-4285F4?style=for-the-badge&logo=webgpu&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+![Modules](https://img.shields.io/badge/Cognitive_Modules-33-6366f1?style=flat-square)
+![Neurons](https://img.shields.io/badge/Spiking_Neurons-1000+-6366f1?style=flat-square)
+![Memory](https://img.shields.io/badge/Holographic_Memory-1024D-6366f1?style=flat-square)
+![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)
+
 A modular artificial general intelligence system built in Rust, exploring consciousness and reasoning through biologically-inspired neural architecture rather than the LLM scaling paradigm.
 
 ## Core Philosophy
