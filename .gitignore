@@ -6,3 +6,15 @@ hippocampus_index.bin
 *.exe
 *.pdb
 node_modules/
+
+# Dev notes
+conseils.txt
+kimichat.txt
+question.txt
+runcmd.txt
+Instructions.txt
+structureFRONTBACK.txt
+Integration.txt
+science.txt
+vision.txt
+IDEAS.txt

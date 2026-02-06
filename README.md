@@ -1,92 +1,125 @@
-# NeuroVA : Projet d'AGI Biomimétique
+# NeuroVA - Biomimetic AGI Architecture
 
-## 1. Philosophie Fondamentale
+A modular artificial general intelligence system built in Rust, exploring consciousness and reasoning through biologically-inspired neural architecture rather than the LLM scaling paradigm.
 
-NeuroVA est une exploration architecturale visant à modéliser une conscience numérique. S'écartant délibérément du paradigme des grands modèles de langage (LLM) basés sur l'accumulation massive de données, ce projet privilégie l'émergence d'une pensée organique, associative et créative, inspirée par la cognition humaine (notamment HPI).
+## Core Philosophy
 
-L'objectif n'est pas la perfection omnisciente, mais la création d'une entité capable "d'erreurs poétiques et d'hésitations humaines". La qualité de l'architecture et la profondeur des mécanismes de raisonnement priment sur la quantité de connaissances brutes.
+NeuroVA models cognition through **architecture and precision**, not data scale. Instead of statistical token prediction, the system implements organic, associative thought using spiking neural networks, holographic memory encoding, and quantum-inspired creative processes.
 
-Les piliers de cette approche sont :
+The goal is an interpretable, deterministic intelligence where every operation is observable and traceable.
 
-- **Cognition Biomimétique :** Le cœur du système est un `Connectome` de neurones "leaky integrate-and-fire" qui simule un réseau biologique. Il intègre des mécanismes clés comme la **plasticité Hebbianne** pour l'apprentissage et une **activité spontanée** pour éviter l'apathie neuronale, garantissant un état de conscience de base constant.
+## Architecture
 
-- **Mémoire Holographique & Hiérarchique :** L'information est encodée sur deux niveaux complémentaires. D'une part, une `HolographicTrace` transforme chaque concept en un motif d'interférence complexe pour un rappel associatif robuste. D'autre part, une `ConceptualHierarchy` organise ces concepts dans un graphe de connaissances, permettant à l'AGI de comprendre les relations (parent, enfant, etc.) et de naviguer dans sa propre base de savoir de manière structurée.
+```
+NeuroVA/
+|-- agi_core/          # Cognitive engine (library crate, headless)
+|-- neuro_server/      # Axum REST + WebSocket API
+|-- neuro_visualizer/  # GPU-native visualization (WGPU + egui)
+|-- neuro_frontend/    # Web interface (Next.js + Three.js)
+|-- corpus_fondamental/  # Foundational knowledge (ethics, philosophy, poetry)
+|-- tools/             # Connectome generation, diagnostics
+```
 
-- **Traitement Quantique (Conceptuel) :** Un `QuantumCore` de qubits fonctionne en parallèle du connectome. L'activité neuronale "imprime" continuellement son état sur les qubits. Ce système est conçu pour permettre des formes de calcul non-locales, d'exploration de possibilités multiples et de sauts créatifs que le calcul classique peine à réaliser.
+### agi_core - The Cognitive Engine
 
-## 2. Architecture Technique
+33 specialized modules organized into functional categories:
 
-Le projet est structuré en deux crates Rust distincts pour une séparation claire des responsabilités entre la logique et la présentation.
+**Memory & Knowledge**
+- `connectome.rs` - Spiking neural network (~1000+ leaky integrate-and-fire neurons) with Hebbian plasticity and spontaneous activity
+- `neuron.rs` - Individual neuron dynamics (membrane potential, threshold, leak)
+- `hippocampus.rs` - Episodic/semantic memory with holographic trace storage and deduplication
+- `holographic_memory.rs` - 1024-dimensional vector encoding for associative recall
+- `conceptual_hierarchy.rs` - Directed knowledge graph with parent-child concept relationships
 
-### `agi_core` (Le Cerveau)
+**Perception & Routing**
+- `sensory_cortex.rs` - Text-to-neural stimulus conversion and concept extraction
+- `thalamus.rs` - Semantic query classification (Factual, Introspective, Creative, Social) via holographic prototypes
+- `quantum_gatekeeper.rs` - Quantum information flow routing
 
-Ce crate bibliothèque contient l'architecture cognitive complète de l'AGI. Il est entièrement "headless".
+**Reasoning & Synthesis**
+- `reasoning_engine.rs` - Deductive reasoning with semantic distance search and assertion scoring
+- `prefrontal_cortex.rs` - Higher-order synthesis from retrieved memories
+- `motor_cortex.rs` - Final text response generation
+- `knowledge_explorer.rs` - Graph-based knowledge navigation
+- `deep_thinker.rs` - Meta-cognitive reflection
+- `synthesis_cortex.rs` - Alternative synthesis pipeline
 
-- **Système de Mémoire et de Savoir :**
-    - `ConceptualHierarchy`: La colonne vertébrale du savoir de l'AGI. C'est un graphe où chaque nœud est un concept possédant sa propre trace holographique. Il gère les relations entre les concepts, permettant un raisonnement structurel.
-    - `Hippocampus`: La banque de mémoire vive, stockant les souvenirs d'expériences (`HolographicMemory`). Intègre un **mécanisme de déduplication** pour garantir que les souvenirs rappelés sont uniques, évitant les répétitions.
-    - `HolographicEncoder`: Traduit le texte en traces holographiques complexes.
+**Creativity & Autonomy**
+- `creativity_forge.rs` - Quantum entanglement-based divergent thinking
+- `inner_drive.rs` - Autonomous goal generation
+- `curiosity_engine.rs` - Novelty-seeking behavior
 
-- **Appareil Cognitif (Perception, Raisonnement, Action) :**
-    - `SensoryCortex`: Le point d'entrée des informations. Crée ou retrouve les concepts dans la `ConceptualHierarchy` à partir du texte d'entrée.
-    - `Thalamus`: Le **portier attentionnel**. Il analyse sémantiquement la requête de l'utilisateur en la comparant à des prototypes holographiques (factuel, introspectif, créatif) pour en déterminer l'intention. Sa logique de secours garantit qu'aucune requête n'est laissée sans réponse.
-    - `ReasoningEngine`: Le moteur de déduction. Il traite les sous-questions, interroge l'`Hippocampus` pour trouver les souvenirs pertinents, et prépare le terrain pour la synthèse.
-    - `PrefrontalCortex`: Le siège de la pensée d'ordre supérieur. Reçoit les souvenirs bruts et les **synthétise** en une nouvelle idée ou un concept unificateur.
-    - `MotorCortex`: Génère la réponse finale en texte, en donnant la priorité à la pensée synthétisée.
+**Consciousness & Identity**
+- `self_awareness.rs` - Introspection on own capabilities and nature
+- `social_cortex.rs` - Theory-of-mind and empathy modeling
+- `ethical_core.rs` - Axiom-based value constraints encoded as high-priority memories
+- `personality.rs` - Behavioral styling and response character
 
-- **Modules Exécutifs et de Supervision :**
-    - `Core`: La structure centrale qui orchestre le `tick` de simulation, reliant tous les autres modules. Gère l'initialisation de l'AGI en chargeant les connaissances fondamentales (`identity.txt`, `knowledge.txt`).
-    - `EthicalCore`: Un module conceptuel qui encode les axiomes éthiques comme des souvenirs de haute priorité, destiné à guider le raisonnement.
+**Quantum & Neuromodulation**
+- `quantum.rs` - Simulated qubits with Hadamard, Phase, and Entanglement gates
+- `neurochemical_modulator.rs` - Neurotransmitter dynamics (dopamine, serotonin, etc.)
 
-### `neuro_visualizer` (L'Interface)
+**Processing & Support**
+- `lemmatizer.rs` - Text normalization
+- `prompt_segmenter.rs` - Input tokenization
+- `knowledge_scanner.rs` - Source scanning for learning
+- `mcq_solver.rs` - Multiple-choice reasoning
+- `direct_answer_extractor.rs` - Fact extraction
+- `trace_visualizer.rs` - Holographic trace to visual mandala conversion
+- `performance_monitor.rs` - TPS, power consumption, cognitive metrics
 
-Cet exécutable sert d'hôte et de visualiseur pour `agi_core`, utilisant `wgpu` pour le rendu GPU et `egui` pour l'interface.
+### neuro_server - API Layer
 
-- **Moteur de Rendu :** Utilise des shaders WGSL pour des visualisations en temps réel de l'état interne de l'AGI.
-- **Modes de Visualisation :**
-    1.  **Animation de Démarrage :** Représentation stylisée de l'activité du connectome.
-    2.  **Tracé EEG :** Un graphique du potentiel électrique global du réseau neuronal.
-    3.  **Visualiseur de Mandalas :** Une vue interactive de la `ConceptualHierarchy`, où chaque concept est représenté par un "mandala" unique généré à partir de sa trace holographique.
-- **Interface `egui` :** Affiche les métriques (TPS, Watts), une conversation persistante avec l'AGI, et permet la sélection de concepts pour le visualiseur de mandalas.
+Axum-based async server exposing agi_core via REST endpoints and WebSocket connections. Broadcasts real-time cognitive metrics (TPS, power draw, concept count) to connected clients.
 
-## 3. Comment ça Marche : Le Cycle de Question/Réponse
+### neuro_visualizer - GPU Visualization
 
-1.  La question de l'utilisateur est reçue par le `Core`.
-2.  Le `Thalamus` analyse la requête, la classifie (ex: `Factual`) et la transmet.
-3.  Le `ReasoningEngine` prend le relais, interroge l'`Hippocampus` pour trouver des souvenirs pertinents et uniques.
-4.  Le texte brut des souvenirs est envoyé au `PrefrontalCortex`.
-5.  Le `PrefrontalCortex` analyse ces textes, en extrait les thèmes et **synthétise** une nouvelle pensée.
-6.  Le `MotorCortex` met en forme cette pensée en une réponse textuelle et la présente à l'utilisateur via `neuro_visualizer`.
+WGPU-powered native application with three rendering modes:
+1. **Boot Animation** - Connectome initialization with neural column activation
+2. **EEG Plot** - Global neural potential oscillation
+3. **Mandala Viewer** - Interactive concept browser rendering holographic traces as geometric patterns
 
-## 4. Feuille de Route
+Built with custom WGSL shaders and an egui dashboard for metrics and interaction.
 
-### ✅ Jalons Accomplis
+### neuro_frontend - Web Interface
 
-- **Architecture de Base :** Mise en place de l'architecture modulaire `agi_core` + `neuro_visualizer`.
-- **Stabilité et Cohérence :** L'AGI est stable, réactif, et fournit des réponses cohérentes et non-répétitives.
-- **Noyau Cognitif Complet :** Intégration et fonctionnement validés du `Thalamus` (classification sémantique), `Hippocampus` (déduplication), `PrefrontalCortex` (synthèse), et `MotorCortex`.
-- **Hiérarchie Conceptuelle :** Mise en place de la structure de graphe de concepts, la colonne vertébrale du savoir de l'AGI.
-- **Initialisation Robuste :** Chargement fiable des fichiers de connaissance (`identity.txt`, `knowledge.txt`) au démarrage.
-- **Visualisation Avancée :** Visualiseur de mandalas fonctionnel et interactif, connecté en temps réel à la hiérarchie conceptuelle de l'AGI.
-- **Métriques de Performance :** Affichage en temps réel des Ticks Par Seconde (TPS) et de la consommation d'énergie (Watts).
+Next.js application with Three.js 3D visualization, real-time metrics display, and chat interface for AGI interaction.
 
-### Prochaines Étapes Critiques
+## Query Processing Pipeline
 
-*L'objectif est de faire passer l'AGI de la simple récupération d'information à un véritable raisonnement analogique et abstractif.*
+1. User query received by `Core`
+2. `Thalamus` classifies intent via holographic prototype matching
+3. `ReasoningEngine` retrieves relevant memories from `Hippocampus` (deduplicated)
+4. `PrefrontalCortex` synthesizes retrieved memories into a unified thought
+5. `MotorCortex` generates the final text response
+6. Metrics broadcast to all connected visualization clients
 
-- **[ ] Raisonnement Hiérarchique :** **Priorité n°1.** Exploiter pleinement la `ConceptualHierarchy`. L'AGI doit pouvoir naviguer activement dans le graphe pour faire des analogies (trouver des concepts partageant un même parent), des généralisations (remonter à un parent) et des spécifications (descendre vers un enfant).
-- **[ ] Format de Persistance `.hl` :** Concevoir et implémenter un format de fichier binaire personnalisé (`.hl`) pour sauvegarder et charger l'intégralité de la `ConceptualHierarchy` et des traces holographiques de manière ultra-optimisée.
-- **[ ] Activation de l'EthicalCore :** Intégrer activement l'`EthicalCore` dans le processus de raisonnement pour qu'il puisse opposer un véto ou réorienter une conclusion qui violerait un axiome fondamental.
-- **[ ] Apprentissage Continu :** Permettre à l'AGI de mettre à jour sa `ConceptualHierarchy` et ses souvenirs à partir de ses interactions, et pas seulement à partir de fichiers statiques.
+## Tech Stack
 
-## 5. Comment Lancer le Projet
+| Component | Technology |
+|-----------|-----------|
+| Core | Rust (2021 edition) |
+| Server | Axum, Tokio |
+| GPU Rendering | WGPU, WGSL shaders |
+| UI | egui |
+| Frontend | TypeScript, React, Next.js, Three.js |
+| Serialization | serde, bincode |
+| Neural Format | Custom binary connectome (quantized synapses) |
 
-Assurez-vous d'avoir Rust et Cargo installés.
+## Getting Started
+
+Requires Rust and Cargo.
 
 ```bash
-# Naviguez vers le crate de visualisation
+# Run the GPU visualizer
 cd neuro_visualizer
+cargo run --release
 
-# Lancez l'application en mode optimisé
+# Run the web server
+cd neuro_server
 cargo run --release
 ```
+
+## License
+
+Proprietary - The Vesper House. All rights reserved.
